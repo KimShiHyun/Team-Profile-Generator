@@ -36,7 +36,6 @@ SO THAT I have quick access to their emails and GitHub profiles
 ## Built With
 
 - [HTML](https://html.spec.whatwg.org/)
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [Javascript](https://www.javascript.com/)
 - [Node.js](https://nodejs.org/en/)
 
