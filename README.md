@@ -41,16 +41,15 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 ## Links
 
-- [Website](https://kimshihyun.github.io/Weather-Dashboard/)
 - [Github Repo](https://github.com/KimShiHyun/Team-Profile-Generator)
 - [Video Demo](...)
 
 ## Screenshot
 
-The following image shows the command-line application's appearance and functionality:
+The following image shows the command-line application's appearance and tests running smoothly:
 
 ![Web Screenshot](./assets/images/screenshot.png)
 
-The following image shows the generated HTML's appearance and functionality:
+The following image shows the rendered html file that is created after all employee information is inputed:
 
-![Web Screenshot](./assets/images/screenshothtml.png)
+![Web Screenshot](./assets/images/screenshot2.png)
