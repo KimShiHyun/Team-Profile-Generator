@@ -68,7 +68,7 @@ const promptUser = () => {
     ])
 
     .then((answers) => {
-      if (answers.role == "I don't want to add anymore teammembers.") {
+      if (answers.role == "I don't want to add anymore team-members.") {
         createTeamProfile();
       } else if (answers.role == "Manager") {
         manager();

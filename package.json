@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/KimShiHyun/Team-Profile-Generator#readme",
   "dependencies": {
-    "inquirer": "^8.1.2",
+    "inquirer": "^8.2.0",
     "jest": "^27.0.6"
   }
 }
