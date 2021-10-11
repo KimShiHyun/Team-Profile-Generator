@@ -42,7 +42,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 ## Links
 
 - [Github Repo](https://github.com/KimShiHyun/Team-Profile-Generator)
-- [Video Demo](...)
+- [Video Demo](https://youtu.be/I2mq1wObyf8)
 
 ## Screenshot
 
